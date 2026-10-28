@@ -1,0 +1,10 @@
+[package]
+name = "sigmaos_emacs_yasnippet"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+name = "sigmaos_emacs_yasnippet"
+path = "src/lib.rs"
