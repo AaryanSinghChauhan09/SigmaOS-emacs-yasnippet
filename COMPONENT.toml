@@ -3,7 +3,7 @@ name = "SigmaOS-emacs-yasnippet"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "emacs-yasnippet component"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
